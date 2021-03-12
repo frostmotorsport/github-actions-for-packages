@@ -7,7 +7,6 @@ env:
   IMAGE_REGISTRY_URL: docker.pkg.github.com
   AZURE_WEBAPP_NAME: frostmotorsport-ttt-app
 
-
 on:
   push:
 
